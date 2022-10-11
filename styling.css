@@ -39,7 +39,7 @@ main {
   width: 100%;
   display: flex;
   gap: 10px;
-  padding: 100px 1vw;
+  padding: 100px 5vw;
 }
 
 .column {
